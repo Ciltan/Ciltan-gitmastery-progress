@@ -158,5 +158,14 @@
       "Your Github CLI is not setup correctly"
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "fork-repo",
+    "started_at": 1786985520.826772,
+    "completed_at": 1786985525.389554,
+    "comments": [
+      "Great work creating a fork with Github!"
+    ],
+    "status": "Completed"
   }
 ]
